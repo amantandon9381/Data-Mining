@@ -1,2 +1,2 @@
-# Data-Mining-and-Clustering-
-Principal Component Analysis and Clustering 
+# Data-Mining-
+Principal Component Analysis
